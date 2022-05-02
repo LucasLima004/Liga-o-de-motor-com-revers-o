@@ -2,7 +2,9 @@
 
 <h3 align="center">Projeto de ligação utilizando CLP e programação em bloco Ladder.</h3>
 <p align="center">
-<img src=""/>
+<img src="https://img.shields.io/badge/Status-Concluido-green"/>
+<img src="https://img.shields.io/github/issues/LucasLima004/Liga-o-de-motor-com-revers-o"/>
+<img src="https://img.shields.io/badge/Linguagem-Ladder-blue"/>
 </p>
 <br>
 <br>
