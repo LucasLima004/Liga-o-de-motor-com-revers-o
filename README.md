@@ -41,7 +41,7 @@
 #Técnico em automação industrial
 
 
-#Observações:<br>
-No projeto há o arquivo referente à forma de ligação elétrica dos circuitos de comando com o controlador lógico programável e o diagrama de potência.
+<h5>Observações:</h5><br>
+No projeto há o arquivo referente à forma de ligação elétrica dos circuitos de comando com o controlador lógico programável e o diagrama de potência.<br>
 A programação é completamente feita em ladder com algumas peculiaridades, pois o sistema do simulador exige alguns blocos de comandos únicos para funcionamento.
-#O software utilizado foi o CadeSimu versão 4.0
+<br>#O software utilizado foi o CadeSimu versão 4.0
