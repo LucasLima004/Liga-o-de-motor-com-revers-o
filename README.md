@@ -37,11 +37,11 @@
   <li>Programação em bloco Ladder</li>
 </ul>
 
-#     Feita por Lucas Lima
+#     Feito por Lucas Lima
 #Técnico em automação industrial
 
 
-#Observações:
+#Observações:<br>
 No projeto há o arquivo referente à forma de ligação elétrica dos circuitos de comando com o controlador lógico programável e o diagrama de potência.
 A programação é completamente feita em ladder com algumas peculiaridades, pois o sistema do simulador exige alguns blocos de comandos únicos para funcionamento.
 #O software utilizado foi o CadeSimu versão 4.0
