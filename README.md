@@ -8,9 +8,13 @@
 </p>
 <br>
 <br>
+<h3>Diagrama de ligação elétrica:</h3>
 ![Diagrama de comando](https://user-images.githubusercontent.com/99892157/166342307-1083d727-5e1d-4cdb-ae78-f8448a7b9ae8.png)
-
+<br>
+<h3>Programação em blocos:</h3>
+![Programação em bloco ladder](https://user-images.githubusercontent.com/99892157/166342989-4a1db7d9-2878-452f-bf9c-dfd394184a3e.png)
 <h1>Diagrama de ligação de potência:</h1>
+
 
 <ul>
   <li>Simulador CadeSimu V 4.0</li>
